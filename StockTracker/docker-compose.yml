@@ -1,0 +1,23 @@
+version: '3.4'
+
+services:
+  stocktracker:
+    image: ${DOCKER_REGISTRY-}stocktracker
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on: 
+      - sqldata
+    ports:
+      - 5400:80
+      - 5401:443
+  sqldata:
+    restart: unless-stopped
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      - SA_PASSWORD=Pass@word
+      - ACCEPT_EULA=Y
+    volumes:
+      - "./data-mssql:/var/opt/mssql/data"    
+    ports:
+      - "5434:1433"
