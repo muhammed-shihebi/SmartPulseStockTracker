@@ -46,7 +46,7 @@ This is the client application where the the frontend is implemented and the use
 ## Companies Page 
 Please note that in this page, data in the grid is updated using a WebSocket with SignalR. This means the update happen in real-time. 
 
-![alt-text](Pictures\React\CompaniesPage.gif)
+![CompaniesPage](Pictures\React\CompaniesPage.gif)/ ![](Pictures\React\CompaniesPage.gif)
 
 
 
