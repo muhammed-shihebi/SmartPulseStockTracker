@@ -135,3 +135,4 @@ F:\Informatik\University - TDU\Semester 07\Staj\smartPulse\Projects\StockTracker
 F:\Informatik\University - TDU\Semester 07\Staj\smartPulse\Projects\StockTrackerProject\ConsoleAppRandom\obj\Debug\net5.0\ref\ConsoleApp.dll
 F:\Informatik\University - TDU\Semester 07\Staj\smartPulse\Projects\StockTrackerProject\ConsoleAppRandom\obj\Debug\net5.0\ConsoleApp.pdb
 F:\Informatik\University - TDU\Semester 07\Staj\smartPulse\Projects\StockTrackerProject\ConsoleAppRandom\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+F:\Informatik\University - TDU\Semester 07\Staj\smartPulse\Projects\StockTrackerProject\ConsoleAppRandom\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache

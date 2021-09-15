@@ -36,7 +36,7 @@ namespace ConsoleApp
             {
                 var count = 0;
                 Random r = new Random();
-                while (count < 11)
+                while (count < 12)
                 {
                     var devices = context.Devices.ToList();
                     Util.PrintOpject(devices);
