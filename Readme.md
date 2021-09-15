@@ -31,7 +31,9 @@ The API gives the user the ability to access data and manipulate it.
 ## Folder Structure 
 <img src="Pictures\dotNetCore\FolderStructure.png" width=300> 
 
-
+## Entity Relationship Diagram 
+This diagram shows how data classes (SQL tables) are related to each other. 
+<img src="Pictures\dotNetCore\ERD.png" width=800> 
 
 # React 
 
