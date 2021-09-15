@@ -46,8 +46,7 @@ This is the client application where the the frontend is implemented and the use
 ## Companies Page 
 Please note that in this page, data in the grid is updated using a WebSocket with SignalR. This means the update happen in real-time. 
 
-![CompaniesPage](Pictures\React\CompaniesPage.gif)/ ![](Pictures\React\CompaniesPage.gif)
-
+![CompaniesPage](https://raw.githubusercontent.com/Nour0700/SmartPulseStockTracker/main/Pictures/React/CompaniesPage.gif)
 
 
 ## Inventory Page 
