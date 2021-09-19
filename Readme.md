@@ -46,7 +46,7 @@ This is the client application where the frontend is implemented and the user ca
 <img src="Pictures\React\HomePage.png" width=800> 
 
 ## Companies Page 
-Please note that in this page, data in the grid is updated using a WebSocket with SignalR. This means the update happen in real-time. 
+Please note that in this page, the data in the grid is updated using a WebSocket with SignalR. This means that the update is happening in real-time. 
 
 ![CompaniesPage](https://raw.githubusercontent.com/Nour0700/SmartPulseStockTracker/main/Pictures/React/CompaniesPage.gif)
 
