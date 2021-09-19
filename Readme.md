@@ -37,7 +37,7 @@ This diagram shows how data classes (SQL tables) are related to each other.
 
 # React 
 
-This is the client application where the the frontend is implemented and the user can access the functionality offered by the application. 
+This is the client application where the frontend is implemented and the user can access the functionality offered by the application. 
 
 ## Folder Structure  
 <img src="Pictures\React\FolderStructure.png" width=300> 
